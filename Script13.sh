@@ -33,3 +33,4 @@ else
  echo "$a -lt 100 -o $b -gt 100 : returns false"
 fi
 echo "we check the greter and smaller check th value"
+#this 13 th Script
